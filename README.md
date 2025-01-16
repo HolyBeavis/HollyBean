@@ -1,2 +1,2 @@
 # HollyBean
-Hello, Bevis
+Hello, Beans
